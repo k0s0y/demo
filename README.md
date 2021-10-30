@@ -1,7 +1,7 @@
  # Twitter Bootstrap
 
 ## Start work
-**Twitter Bootstrap** - Framework CSS
+**Twitter Bootstrap** - Framework CSS [site official](https://getbootsstrap.com)
 ### Install with CDN
 
 ## Lists
@@ -20,3 +20,10 @@ Wariants of lists
 ### Install with NPM
 
 ## Work
+```javascript
+console.log('message');
+```
+
+Task list
+- [x] one
+- [] two
